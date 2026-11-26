@@ -4,6 +4,7 @@ Colección de skills de Claude para los departamentos de la división peruana de
 
 | Skill | Departamento | Descripción |
 |---|---|---|
+| [ivao-peru-eventos](ivao-peru-eventos/) | Eventos | Busca huecos en calendar.ivao.aero, reserva el evento, genera el BBCode (ES/EN), el prompt del banner, el mensaje a Operaciones y los recordatorios en Google Calendar. |
 
 ## Instalación
 
